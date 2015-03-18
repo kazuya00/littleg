@@ -1,0 +1,1 @@
+It's a working title scroll-side 2D game, that use box2D, SDL and OpenGL, developed under Linux with C++.
